@@ -34,7 +34,7 @@ with recent expertise in deployment and web application development using Python
 
 * ### [Transaction fraud detection](https://github.com/cjuliani/transaction-fraud-detection)
 
-A data science project to predict whether a transaction is a fraud or not. Processing of 200,000+ transaction records, feature engineering and data analysis. Learning models are trainer and tested (Random Forest, k-Nearest Neighbour, multi-layer perceptrons).
+    A data science project to predict whether a transaction is a fraud or not. Processing of 200,000+ transaction records, feature engineering and data analysis. Learning models are trainer and tested (Random Forest, k-Nearest Neighbour, multi-layer perceptrons).
 
 * ### [3D object detection in point cloud data](https://github.com/cjuliani/tf-3D-SS-GCN)
 
