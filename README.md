@@ -34,13 +34,13 @@ with recent expertise in deployment and web application development using Python
 
 * ### [Transaction fraud detection](https://github.com/cjuliani/transaction-fraud-detection)
 
-    A data science project to predict whether a transaction is a fraud or not. Processing of 200,000+ transaction records, feature engineering and data analysis. Learning models are trainer and tested (Random Forest, k-Nearest Neighbour, multi-layer perceptrons).
+A data science project to predict whether a transaction is a fraud or not. Processing of 200,000+ transaction records, feature engineering and data analysis. Learning models are trainer and tested (Random Forest, k-Nearest Neighbour, multi-layer perceptrons).
 
 * ### [3D object detection in point cloud data](https://github.com/cjuliani/tf-3D-SS-GCN)
 
-    The algorithm addresses the 3D object detection task from point cloud sonar data to capture specified terrain information with deep Hough voting and self-attention mechanism. Most existing automated seabed analysis rely on terrain geomorphometry to classify or segment features in digital terrains. Comparatively, this algorithm allows recognizing 3D objects directly from point clouds. The modules are implemented for extracting features, voting and proposing objects in a similar fashion than proposed in VoteNet.
+The algorithm addresses the 3D object detection task from point cloud sonar data to capture specified terrain information with deep Hough voting and self-attention mechanism. Most existing automated seabed analysis rely on terrain geomorphometry to classify or segment features in digital terrains. Comparatively, this algorithm allows recognizing 3D objects directly from point clouds. The modules are implemented for extracting features, voting and proposing objects in a similar fashion than proposed in VoteNet.
 
 * ### [Object-based Neuro Fuzzy Clustering](https://github.com/juniorcl/health-insurance-cross-sell)
 
-    ONFC is an algorithm processing the latent characteristics of fully convolutional networks (FCNs) to group objects with analogous properties. Its application is tested using microphotographs of mineral grains whose predominant attributes (e.g. composition and intergranular structures) are difficult to categorize in RGB pictures.
+ONFC is an algorithm processing the latent characteristics of fully convolutional networks (FCNs) to group objects with analogous properties. Its application is tested using microphotographs of mineral grains whose predominant attributes (e.g. composition and intergranular structures) are difficult to categorize in RGB pictures.
 
