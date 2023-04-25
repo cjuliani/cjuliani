@@ -30,7 +30,7 @@ with recent expertise in deployment and web application development using Python
 
 * **Development:** Git, Windows/Linux and Docker.
 
-## Data Science Projects
+## Projects
 
 * ### [Transaction fraud detection](https://github.com/cjuliani/transaction-fraud-detection)
 
