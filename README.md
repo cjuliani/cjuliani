@@ -12,7 +12,7 @@
 Ph.D., 6+ years of experience in data science, machine learning and computer vision, 
 with recent expertise in deployment and web application development using Python and JavaScript.
 
-## Projects
+## Examples of projects
 
 * ### [Deep learning app deployment](https://github.com/cjuliani/deep-learning-app-flask-jquery-celery-socketio-docker)
 
