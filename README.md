@@ -32,6 +32,11 @@ with recent expertise in deployment and web application development using Python
 
 ## Projects
 
+* ### [Deep learning app deployment](https://github.com/cjuliani/deep-learning-app-flask-jquery-celery-socketio-docker)
+
+Simple web application with deep learning services: asynchronous processing of long tasks, continuous streaming of information to client side. Backend server setup and fromt-end development. Tools: Flask, Flask-SocketIO, Celery, jQuery, AJAX, SocketIO.
+
+
 * ### [Transaction fraud detection](https://github.com/cjuliani/transaction-fraud-detection)
 
 A data science project to predict whether a transaction is a fraud or not. Processing of 200,000+ transaction records, feature engineering and data analysis. Learning models are trainer and tested (Random Forest, k-Nearest Neighbour, multi-layer perceptrons).
