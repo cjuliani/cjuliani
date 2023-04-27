@@ -1,18 +1,12 @@
-<h1 align="center">Hi, I'm Cyril J.</h1>
-
-<h3 align="center"><i>Full-stack Data Scientist</i></h3>
-
-<div align="center">
+<h1 align="left">Hi, I'm Cyril J.</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cjuliani/)&nbsp;&nbsp;
-
-</div>
 
 <br>
 Ph.D., 6+ years of experience in data science, machine learning and computer vision, 
 with recent expertise in deployment and web application development using Python and JavaScript.
 
-## Projects
+## 📕Projects
 
 * ### [Deep learning app deployment](https://github.com/cjuliani/deep-learning-app-flask-jquery-celery-socketio-docker)
 
@@ -31,7 +25,7 @@ The algorithm addresses the 3D object detection task from point cloud sonar data
 
 ONFC is an algorithm processing the latent characteristics of fully convolutional networks (FCNs) to group objects with analogous properties. Its application is tested using microphotographs of mineral grains whose predominant attributes (e.g. composition and intergranular structures) are difficult to categorize in RGB pictures.
 
-## Tools
+## ⚔️ Tools
 
 * **Python:** numpy, pandas, tensorflow, sklearn, opencv, scikit-image, flask, flask-restful, task queues, threading, requests, multiprocessing, sqlite/mysql, matplotlib.
 
