@@ -1,10 +1,8 @@
-<h1 align="left">Hi, I'm Cyril J.</h1>
+<h1 align="left">Hi👋, I'm Cyril J.</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cjuliani/)&nbsp;&nbsp;
 
-<br>
-Ph.D., 6+ years of experience in data science, machine learning and computer vision, 
-with recent expertise in deployment and web application development using Python and JavaScript.
+I'm a AI python developer from France with years of experience in data science, machine learning and computer vision.
 
 ## 📕Projects
 
