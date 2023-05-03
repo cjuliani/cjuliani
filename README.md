@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋, I'm Cyril J.</h2>
+<h1 align="left">Hi 👋, I'm Cyril J.</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cjuliani/)
 
