@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋, I'm Cyril J.</h2>
-[Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cjuliani/)
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cjuliani/)
 
 I'm an AI python developer from France with years of experience in data science, machine learning and computer vision.
 
