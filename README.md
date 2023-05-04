@@ -15,7 +15,7 @@ A custom-built mask-rcnn model written with TensorFlow 2, and associated integra
 * ### [Transaction fraud detection](https://github.com/cjuliani/transaction-fraud-detection)
 A data science project to predict whether a transaction is a fraud or not. Processing of 200,000+ transaction records, feature engineering and data analysis. Learning models are trainer and tested (Random Forest, k-Nearest Neighbour, multi-layer perceptrons).
 
-* ### [3D object detection in point cloud data](https://github.com/cjuliani/3D-object-detection-via-Graph-Convolutional-Networks)
+* ### [3D detection in point cloud data via Graph Convolutional Networks](https://github.com/cjuliani/3D-object-detection-via-Graph-Convolutional-Networks)
 The algorithm addresses the 3D object detection task from point cloud sonar data to capture specified terrain information with Graph Convolutional Networks (GCNs) and a deep voting module.
 
 * ### [Object-based Neuro Fuzzy Clustering](https://github.com/juniorcl/health-insurance-cross-sell)
