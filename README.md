@@ -18,7 +18,7 @@ A data science project to predict whether a transaction is a fraud or not. Proce
 * ### [3D detection in point cloud data via Graph Convolutional Networks](https://github.com/cjuliani/3D-object-detection-via-Graph-Convolutional-Networks)
 The algorithm addresses the 3D object detection task from point cloud sonar data to capture specified terrain information with Graph Convolutional Networks (GCNs) and a deep voting module.
 
-* ### [Object-based Neuro Fuzzy Clustering](https://github.com/juniorcl/health-insurance-cross-sell)
+* ### [Object-based Neuro Fuzzy Clustering](https://github.com/cjuliani/Object-based-Neuro-Fuzzy-Clustering)
 ONFC is an algorithm processing the latent characteristics of fully convolutional networks (FCNs) to group objects with analogous properties. Its application is tested using microphotographs of mineral grains whose predominant attributes (e.g. composition and intergranular structures) are difficult to categorize in RGB pictures.
 
 ## ⚔️ Tools
