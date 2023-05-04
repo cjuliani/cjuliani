@@ -12,7 +12,7 @@ Simple web application with deep learning services: asynchronous processing of l
 * ### [Mask RCNN TF2 with integration testing](https://github.com/cjuliani/Mask-RCNN-Tensorflow-2)
 A custom-built mask-rcnn model written with TensorFlow 2, and associated integration testing module written with PyUnit.
 
-* ### [Transaction fraud detection (big data)](https://github.com/cjuliani/transaction-fraud-detection)
+* ### [Transaction fraud detection](https://github.com/cjuliani/transaction-fraud-detection)
 A data science project to predict whether a transaction is a fraud or not. Processing of 200,000+ transaction records, feature engineering and data analysis. Learning models are trainer and tested (Random Forest, k-Nearest Neighbour, multi-layer perceptrons).
 
 * ### [3D detection in point cloud data via Graph Convolutional Networks](https://github.com/cjuliani/3D-object-detection-via-Graph-Convolutional-Networks)
