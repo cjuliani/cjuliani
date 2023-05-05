@@ -22,7 +22,7 @@ The algorithm addresses the 3D object detection task from point cloud sonar data
 * ### [Object-based Neuro Fuzzy Clustering](https://github.com/cjuliani/Object-based-Neuro-Fuzzy-Clustering)
 ONFC is an algorithm processing the latent characteristics of fully convolutional networks (FCNs) to group objects with analogous properties. Its application is tested using microphotographs of mineral grains whose predominant attributes (e.g. composition and intergranular structures) are difficult to categorize in RGB pictures.
 
-* ### [Wasserstein GAN](https://github.com/cjuliani/Wasserstein-Generative-Adversarial-Network-TensorFlow-2)
+* ### [Wasserstein Generative Adversarial Network](https://github.com/cjuliani/Wasserstein-Generative-Adversarial-Network-TensorFlow-2)
 A simple implementation of WGAN written with TensorFlow 2. 
 
 ## ⚔️ Tools
