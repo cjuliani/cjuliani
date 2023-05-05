@@ -16,13 +16,13 @@ A custom-built mask-rcnn model written with TensorFlow 2, and associated integra
 * ### [Transaction fraud detection](https://github.com/cjuliani/transaction-fraud-detection)
 A data science project to predict whether a transaction is a fraud or not. Processing of 200,000+ transaction records, feature engineering and data analysis. Learning models are trainer and tested (Random Forest, k-Nearest Neighbour, multi-layer perceptrons).
 
-* ### [3D detection in point cloud data via Graph Convolutional Networks](https://github.com/cjuliani/3D-object-detection-via-Graph-Convolutional-Networks)
+* ### [3D detection in point cloud data via Graph Convolutional Networks (GCNs)](https://github.com/cjuliani/3D-object-detection-via-Graph-Convolutional-Networks)
 The algorithm addresses the 3D object detection task from point cloud sonar data to capture specified terrain information with Graph Convolutional Networks (GCNs) and a deep voting module.
 
-* ### [Object-based Neuro Fuzzy Clustering](https://github.com/cjuliani/Object-based-Neuro-Fuzzy-Clustering)
+* ### [Object-based Neuro Fuzzy Clustering (ONFC)](https://github.com/cjuliani/Object-based-Neuro-Fuzzy-Clustering)
 ONFC is an algorithm processing the latent characteristics of fully convolutional networks (FCNs) to group objects with analogous properties. Its application is tested using microphotographs of mineral grains whose predominant attributes (e.g. composition and intergranular structures) are difficult to categorize in RGB pictures.
 
-* ### [Wasserstein Generative Adversarial Network](https://github.com/cjuliani/Wasserstein-Generative-Adversarial-Network-TensorFlow-2)
+* ### [Wasserstein Generative Adversarial Network (WGAN)](https://github.com/cjuliani/Wasserstein-Generative-Adversarial-Network-TensorFlow-2)
 A simple implementation of WGAN written with TensorFlow 2. 
 
 ## ⚔️ Tools
