@@ -1,6 +1,8 @@
 <h1 align="left">Hi 👋, I'm Cyril J.</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cjuliani/)
+[![Behance Badge](https://img.shields.io/badge/Behance-000000?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/cyril_j)
+
 
 I'm an AI python developer from France with years of experience in data science, machine learning and computer vision.
 
