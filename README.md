@@ -19,8 +19,8 @@ A data science project to predict whether a transaction is a fraud or not. Proce
 * ### [3D detection in point cloud data via Graph Convolutional Networks (GCNs)](https://github.com/cjuliani/3D-object-detection-via-Graph-Convolutional-Networks)
 The algorithm addresses the 3D object detection task from point cloud sonar data to capture specified terrain information with Graph Convolutional Networks (GCNs) and a deep voting module.
 
-* ### [Object-based Neuro Fuzzy Clustering (ONFC)](https://github.com/cjuliani/Object-based-Neuro-Fuzzy-Clustering)
-ONFC is an algorithm processing the latent characteristics of fully convolutional networks (FCNs) to group objects with analogous properties. Its application is tested using microphotographs of mineral grains whose predominant attributes (e.g. composition and intergranular structures) are difficult to categorize in RGB pictures.
+* ### [Object-based Probabilistic Similarity Evidence (OPSE) of Latent Features from FCNs](https://github.com/cjuliani/probabilistic-similarity-evidence-FCN)
+OPSE is an algorithm processing the latent characteristics of fully convolutional networks (FCNs) to group objects with analogous properties. Its application is demonstrated using the UT Zappos50K datasets.
 
 * ### [Wasserstein Generative Adversarial Network (WGAN)](https://github.com/cjuliani/Wasserstein-Generative-Adversarial-Network-TensorFlow-2)
 A simple implementation of WGAN written with TensorFlow 2. 
