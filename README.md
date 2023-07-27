@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cjuliani/)
 
-I'm an AI python developer from France with years of experience in data science, machine learning and computer vision.
+I'm an AI python developer from France with years of experience in machine learning, software engineering and computer vision.
 
 ## 📕Projects
 
