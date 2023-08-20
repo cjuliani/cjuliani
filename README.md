@@ -6,8 +6,8 @@ I'm an AI python developer from France with years of experience in machine learn
 
 ## 📕Projects
 
-* ### [Deep learning app deployment](https://github.com/cjuliani/deep-learning-app-flask-jquery-celery-socketio-docker)
-Simple web application with deep learning services: asynchronous processing of long tasks and continuous streaming of information to client side. Backend server setup and fromt-end development. Tools: Flask, Flask-SocketIO, Celery, jQuery, AJAX, SocketIO.
+* ### [Deep learning app deployment (module frontend + backend)](https://github.com/cjuliani/deep-learning-app-flask-jquery-celery-socketio-docker)
+Simple module of a web application with deep learning (vision system) as a service: asynchronous processing of long tasks and continuous streaming of information to client side. Backend server setup and fromt-end development. Tools: Flask, Flask-SocketIO, Celery, jQuery, AJAX, SocketIO.
 
 * ### [Mask RCNN TF2 with integration testing](https://github.com/cjuliani/Mask-RCNN-Tensorflow-2)
 A custom-built mask-rcnn model written with TensorFlow 2, and associated integration testing module written with PyUnit.
