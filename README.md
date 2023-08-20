@@ -26,18 +26,16 @@ A simple implementation of WGAN written with TensorFlow 2.
 
 ## ⚔️ Tools
 
-* **Python:** numpy, pandas, tensorflow, sklearn, opencv, scikit-image, flask, flask-restful, task queues, threading, requests, multiprocessing, sqlite/mysql, matplotlib.
+* **Python:** TensorFlow 2, Keras, scikit-learn, Pandas, NumPy, threading, asyncio, Requests, Multiprocessing, Dash/Plotly and Matplotlib.
 
-* **Software development:** writing modular codes, code linting and optimization, writing auto-tests (PyUnit) and documentation, and version control (Git).
+* **Software development:** OOP, TDD, version control Git, CI, MLOps, QA testing (PyUnit), Agile practices (standups), code linting and documentation.
 
-* **Web development:** Flask, jQuery, JavaScript, Socker.IO/WebSocket, Celery, AJAX, HTML and CSS, UI design. 
+* **Web app development:** Flask, Flask-Restful, jQuery, JavaScript, Docker, Socker.IO/WebSocket API, task queuing (Celery), AJAX, HTML and CSS, UI design. 
 
-* **Computer vision:** object detection, classification, segmentation, GANs, semi-supervised learning, image processing and clustering.
+* **Computer vision:** 2D/3D detection, generative AI (GANs, VAE), image processing and OpenCV, semi-supervised learning and object clustering.
 
 * **Deep learning:** building models, transfer-learning, literature review and implementation, network analysis and performance optimization.
 
 * **Machine learning:** clustering, regression, classification, dimensionality reduction, ensemble methods, supervised/unsupervised learning.
 
-* **Data Collection and Storage:** SQlite and MySQL.
-
-* **Development:** Git, Windows/Linux and Docker.
+* **Data Collection and Storage:** MySQL, SQLite, PyMySQL and SQLAlchemy.
