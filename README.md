@@ -9,10 +9,10 @@ I'm an AI python developer from France with years of experience in machine learn
 * ### [Deep learning app deployment (module frontend + backend)](https://github.com/cjuliani/deep-learning-app-flask-jquery-celery-socketio-docker)
 Simple module of a web application with deep learning (vision system) as a service: asynchronous processing of long tasks and continuous streaming of information to client side. Backend server setup and fromt-end development. Tools: Flask, Flask-SocketIO, Celery, jQuery, AJAX, SocketIO.
 
-* ### [Mask RCNN TF2 with integration testing](https://github.com/cjuliani/Mask-RCNN-Tensorflow-2)
+* ### [Mask RCNN written in Tensorflow 2 (+ integration testing)](https://github.com/cjuliani/Mask-RCNN-Tensorflow-2)
 A custom-built mask-rcnn model written with TensorFlow 2, and associated integration testing module written with PyUnit.
 
-* ### [Transaction fraud detection](https://github.com/cjuliani/transaction-fraud-detection)
+* ### [Transaction fraud detection (Pandas + multiprocessing)](https://github.com/cjuliani/transaction-fraud-detection)
 A data science project to predict whether a transaction is a fraud or not. Processing of 200,000+ transaction records, feature engineering and data analysis. Learning models are trainer and tested (Random Forest, k-Nearest Neighbour, multi-layer perceptrons).
 
 * ### [3D detection in point cloud data via Graph Convolutional Networks (GCNs)](https://github.com/cjuliani/3D-object-detection-via-Graph-Convolutional-Networks)
