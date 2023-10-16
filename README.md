@@ -29,13 +29,15 @@ A simple implementation of WGAN written with TensorFlow 2.
 
 ## ⚔️ Tools
 
-* **Python:** TensorFlow 2, Keras, scikit-learn, Pandas, NumPy, threading, asyncio, Requests, Multiprocessing, Dash/Plotly and Matplotlib.
+* **Python:** TensorFlow 2, Keras, scikit-learn, Pandas, NumPy, threading, asyncio, Requests, Multiprocessing, Dash Plotly and Matplotlib.
 
 * **Software development:** OOP, TDD, version control Git, CI, MLOps, QA testing (PyUnit), Agile practices (standups), code linting and documentation.
 
 * **Web app development:** Flask, Flask-Restful, jQuery, JavaScript, Docker, Socker.IO/WebSocket API, task queuing (Celery), AJAX, HTML and CSS, UI design. 
 
 * **Computer vision:** 2D/3D detection, generative AI (GANs, VAE), image processing and OpenCV, semi-supervised learning and object clustering.
+
+* **NLP:** Spacy, TextBlob, NLTK, Hugging Face Hub.
 
 * **Deep learning:** building models, transfer-learning, literature review and implementation, network analysis and performance optimization.
 
