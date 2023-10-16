@@ -2,9 +2,12 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cjuliani/)
 
-I'm an AI python developer from France with an extensive experience in ML engineering, web application development and computer vision.
+I'm an ML engineer from France with experiences in MLOps, computer vision, NLP and web application development.
 
 ## 📕Projects
+
+* ### [Perfume Reviews Analysis - NLP, Dash App]([https://github.com/cjuliani/deep-learning-app-flask-jquery-celery-socketio-docker](https://github.com/cjuliani/perfume-reviews-nlp-dash-app))
+Example of Dash application developed for the analysis of English-translated text, word and concept sentiments, word frequency, and semantic similarity. NLP tools include Spacy, NLTK, TextBlob and Marian transformers (machine translation). 
 
 * ### [Deep learning app deployment (module frontend + backend)](https://github.com/cjuliani/deep-learning-app-flask-jquery-celery-socketio-docker)
 Simple module of a web application with deep learning (vision system) as a service: asynchronous processing of long tasks and continuous streaming of information to client side. Backend server setup and fromt-end development. Tools: Flask, Flask-SocketIO, Celery, jQuery, AJAX, SocketIO.
