@@ -37,7 +37,7 @@ A simple implementation of WGAN written with TensorFlow 2.
 
 * **Computer vision:** 2D/3D detection, generative AI (GANs, VAE), image processing and OpenCV, semi-supervised learning and object clustering.
 
-* **NLP:** Spacy, TextBlob, NLTK, Hugging Face Hub.
+* **NLP:** Spacy, TextBlob, NLTK, HuggingFace Hub.
 
 * **Deep learning:** building models, transfer-learning, literature review and implementation, network analysis and performance optimization.
 
