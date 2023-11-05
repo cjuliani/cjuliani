@@ -6,7 +6,7 @@ I'm an ML engineer from France with experiences in MLOps, computer vision, NLP a
 
 ## 📕Projects
 
-* ### [Recommendation System with Variational Autoencoder (VAE) using TensorFlow 2 and MLflow](https://github.com/cjuliani/recommendation-system-vae-mlflow)
+* ### [Recommendation System with Variational Autoencoder (VAE) - TensorFlow 2, MLflow](https://github.com/cjuliani/recommendation-system-vae-mlflow)
 A VAE-based Recommender System designed to provide personalized recommendations for users based on their historical interactions with items (collaborative filtering). The recommender is tested against the user-item interactions from the Movies Lens 20M dataset. Training models are versioned by MLflow.
   
 * ### [Perfume Reviews Analysis - NLP, Dash App](https://github.com/cjuliani/perfume-reviews-nlp-dash-app)
