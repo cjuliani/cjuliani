@@ -27,7 +27,7 @@ The algorithm addresses the 3D object detection task from point cloud sonar data
 * ### [Object-based Probabilistic Similarity Evidence (OPSE) of Latent Features from FCNs](https://github.com/cjuliani/probabilistic-similarity-evidence-FCN)
 OPSE is an algorithm processing the latent characteristics of fully convolutional networks (FCNs) to group objects with analogous properties. Its application is demonstrated using the UT Zappos50K datasets.
 
-* ### [Predicting Oil and Water Productions from Tme-Series Data](https://github.com/cjuliani/oil-water-production-time-series)
+* ### [Predicting Oil and Water Productions from Time-Series Data](https://github.com/cjuliani/oil-water-production-time-series)
 The data science project uses a GRU model to estimate the oil and water productions from 2 wells. 3400+ records from 2009 to 2011.
 
 * ### [Wasserstein Generative Adversarial Network (WGAN)](https://github.com/cjuliani/Wasserstein-Generative-Adversarial-Network-TensorFlow-2)
