@@ -34,19 +34,18 @@ A time series forecasting GRU model is proposed to estimate the oil and water pr
 A simple implementation of WGAN written with TensorFlow 2. 
 
 ## ⚔️ Tools
+* **Python:** TensorFlow 2, PyTorch, Keras, scikit-learn, Pandas, NumPy, Dash Plotly and Matplotlib.
+  
+* **Computer vision:** incl. 2D/3D and anomaly detection, ViT, GenAI, image processing, OpenCV, semi-supervised learning and object clustering.
 
-* **Python:** TensorFlow 2, Keras, scikit-learn, Pandas, NumPy, threading, asyncio, Requests, Multiprocessing, Dash Plotly and Matplotlib.
+* **LLM:** LangChain, LangGraph, ReAct, multi-agent systems, open-source models (Llama3.1, Mistral-7b).
 
-* **Software development:** OOP, TDD, version control Git, CI, MLOps, QA testing (PyUnit), Agile practices (standups), code linting and documentation.
+* **NLP:** Spacy, TextBlob, NLTK, HuggingFace Hub, sentiment analysis, MT models, information retrieval and semantic similarity.
 
-* **Web app development:** Flask, Flask-Restful, jQuery, JavaScript, Docker, Socker.IO/WebSocket API, task queuing (Celery), AJAX, HTML and CSS, UI design. 
+* **MLOps:** MLflow, Airflow, Ray, GitHub Actions, Docker, Kubernetes and AWS.
+  
+* **Web app development:** Flask, FastAPI, Pydantic, Flask-Restful, Postman, React, JavaScript, Socker.IO/WebSocket API, task queuing (Celery), HTML and CSS. 
 
-* **Computer vision:** 2D/3D detection, generative AI (GANs, VAE), image processing and OpenCV, semi-supervised learning and object clustering.
+* **Software development:** OOP, TDD, Git, CI/CD, QA testing (Pytest and PyUnit), Agile practices (standups), code linting and documentation.
 
-* **NLP:** Spacy, TextBlob, NLTK, HuggingFace Hub.
-
-* **Deep learning:** building models, transfer-learning, literature review and implementation, network analysis and performance optimization.
-
-* **Machine learning:** clustering, regression, classification, dimensionality reduction, ensemble methods, supervised/unsupervised learning.
-
-* **Data Collection and Storage:** MySQL, SQLite, PyMySQL and SQLAlchemy.
+* **Database:** MySQL, PostgreSQL, Redis and SQLAlchemy.
