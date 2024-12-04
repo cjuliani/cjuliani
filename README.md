@@ -38,7 +38,7 @@ A simple implementation of WGAN written with TensorFlow 2.
   
 * **Computer vision:** incl. 2D/3D and anomaly detection, ViT, GenAI, image processing, OpenCV, semi-supervised learning and object clustering.
 
-* **LLM:** LangChain, ReAct, CoT, multi-agent system (LangGraph). .
+* **LLM:** LangChain, DSPy, LangGraph, LangSmith.
 
 * **NLP:** Spacy, TextBlob, NLTK, HuggingFace Hub, sentiment analysis, MT models, information retrieval and semantic similarity.
 
