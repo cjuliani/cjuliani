@@ -6,7 +6,7 @@ I'm an ML engineer from France with experiences in MLOps, computer vision, NLP a
 
 ## 📕Projects
 
-* ### [Small Language Model (SLM) training for NLP Tasks](https://github.com/cjuliani/slm-builder)
+* ### [Small Language Model (SLM) training for NLP Tasks - PyTorch, Transformers, Accelerate](https://github.com/cjuliani/slm-builder)
 Pre-training a tiny LLM (100M parameters) from scratch, and fine-tuning it for NLP tasks.
 
 * ### [Recommendation System with Variational Autoencoder (VAE) - TensorFlow 2, MLflow](https://github.com/cjuliani/recommendation-system-vae-mlflow)
