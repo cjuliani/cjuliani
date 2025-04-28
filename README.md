@@ -6,6 +6,9 @@ I'm an ML engineer from France with experiences in MLOps, computer vision, NLP a
 
 ## 📕Projects
 
+* ### [Small Language Model (SLM) training for NLP Tasks](https://github.com/cjuliani/slm-builder)
+Pre-training a tiny LLM (100M parameters) from scratch, and fine-tuning it for NLP tasks.
+
 * ### [Recommendation System with Variational Autoencoder (VAE) - TensorFlow 2, MLflow](https://github.com/cjuliani/recommendation-system-vae-mlflow)
 A VAE-based Recommender System designed to provide personalized recommendations for users based on their historical interactions with items (collaborative filtering). The recommender is tested against the user-item interactions from the Movies Lens 20M dataset. Training models are versioned by MLflow.
   
