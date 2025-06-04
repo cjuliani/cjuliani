@@ -6,6 +6,9 @@ I'm an ML engineer from France with experiences in MLOps, computer vision, NLP a
 
 ## 📕Projects
 
+* ### [Vision-Language Model (VLM) fine-tuning for Satellite Imagery Analysis - PyTorch, Transformers, Peft](https://github.com/cjuliani/vlm-rs)
+Fine-tuning of Qwen2-VL 7B for Sentinel 2 imagery understanding using QLoRA.
+
 * ### [Small Language Model (SLM) training for NLP Tasks - PyTorch, Transformers, Accelerate](https://github.com/cjuliani/slm-builder)
 Pre-training a tiny LLM (100M parameters) from scratch, and fine-tuning it for NLP tasks.
 
